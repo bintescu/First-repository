@@ -1,1 +1,1 @@
-An game of x and 0 in C.
+A game of x and 0 in C.
